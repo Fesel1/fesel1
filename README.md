@@ -5,6 +5,8 @@ About me: kind, responsive, attentive, developed logic, critical and analytical 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/12XbwVbmh1tu2gKJdYNNHKLSODWoBaHom/view?usp=sharing/)
 
+[Link on my GitLab](https://gitlab.com/swoneq)
+
 
 ### STACK
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
