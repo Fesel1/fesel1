@@ -3,9 +3,9 @@ Now I study ISTQB and Python to improve my hard skills.
 
 About me: kind, responsive, attentive, developed logic, critical and analytical thinking, multitasking, I will not ask anyone if I understand that I can find the answer myself.
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1GHlrdecQnuI2thk6BVhm9Ky1Q0vzA_9b/view?usp=share_link)
-[Russian CV](https://drive.google.com/file/d/158gZCM-bN55dHhCOhU36jpDLA3rkzyG1/view?usp=share_link)
-[Link on my GitLab](https://gitlab.com/swoneq)
+- [Link to my CV](https://drive.google.com/file/d/1GHlrdecQnuI2thk6BVhm9Ky1Q0vzA_9b/view?usp=share_link)
+- [Russian CV](https://drive.google.com/file/d/158gZCM-bN55dHhCOhU36jpDLA3rkzyG1/view?usp=share_link) 
+- [Link on my GitLab](https://gitlab.com/swoneq)
 
 
 ### STACK
