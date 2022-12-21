@@ -25,10 +25,11 @@ About me: kind, responsive, attentive, developed logic, critical and analytical 
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/fesel1/checklist)
+- [Checklists](https://docs.google.com/spreadsheets/d/1fkZtTXLyCeXs4JOvjgVTZ0JpkIfxFu_v3qt9zduuEk8/edit?usp=sharing)
 - [Test-Cases](https://docs.google.com/spreadsheets/d/1IvtxWnNFiv2t8HjH8pkZjIJoOtFrcvCYwZkZYonCrUk/edit?usp=sharing)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1IvtxWnNFiv2t8HjH8pkZjIJoOtFrcvCYwZkZYonCrUk/edit#gid=986167398)
 - [Postman Collections](https://app.getpostman.com/run-collection/22790036-16cb5781-39ec-4f89-bed4-a9e310080b96?action=collection%2Ffork&collection-url=entityId%3D22790036-16cb5781-39ec-4f89-bed4-a9e310080b96%26entityType%3Dcollection%26workspaceId%3Da143d732-6939-43ae-96d7-b35dadffe5e8)
+- [Mobile Test Task](https://docs.google.com/spreadsheets/d/13CUB8i0SOy2MuokHRonoLlG5i2-0KXJHA-Kbj_nBbz8/edit?usp=share_link)
 
 ### My Social
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/dmitriy1940/)
