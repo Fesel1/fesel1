@@ -1,5 +1,5 @@
 ## I'm a Manual QA Engineer 
-Now I study ISTQB and Python to improve my hard skills.
+Now I study ISTQB, Python and MySQL to improve my hard skills.
 
 About me: kind, responsive, attentive, developed logic, critical and analytical thinking, multitasking, I will not ask anyone if I understand that I can find the answer myself.
 ## My CV
